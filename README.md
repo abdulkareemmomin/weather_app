@@ -43,5 +43,6 @@ npm start
 ```
 The app should open automatically in your browser if not just open your preferred browser and type http://localhost:3000 in search bar and hit Enter.
 
+![image](https://github.com/user-attachments/assets/d09ca88d-0645-4768-bb86-d98cf99fb218)
 
 
